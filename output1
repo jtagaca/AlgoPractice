@@ -1,0 +1,105 @@
+Enter number of elements : enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+Original array[5, 3, 6, 2, 4, 2, 5, 8, 7, 3]
+[3, 5, 6, 2, 4, 2, 5, 8, 7, 3]
+[3, 5, 6, 2, 4, 2, 5, 8, 7, 3]
+[2, 3, 5, 6, 4, 2, 5, 8, 7, 3]
+[2, 3, 4, 5, 6, 2, 5, 8, 7, 3]
+[2, 2, 3, 4, 5, 6, 5, 8, 7, 3]
+[2, 2, 3, 4, 5, 5, 6, 8, 7, 3]
+[2, 2, 3, 4, 5, 5, 6, 8, 7, 3]
+[2, 2, 3, 4, 5, 5, 6, 7, 8, 3]
+[2, 2, 3, 3, 4, 5, 5, 6, 7, 8]
+count of the basic operation is:18
+Enter number of elements : enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+Original array[8, 3, 1, 2, 0, 2, 5, 4, 7, 3]
+[3, 8, 1, 2, 0, 2, 5, 4, 7, 3]
+[1, 3, 8, 2, 0, 2, 5, 4, 7, 3]
+[1, 2, 3, 8, 0, 2, 5, 4, 7, 3]
+[0, 1, 2, 3, 8, 2, 5, 4, 7, 3]
+[0, 1, 2, 2, 3, 8, 5, 4, 7, 3]
+[0, 1, 2, 2, 3, 5, 8, 4, 7, 3]
+[0, 1, 2, 2, 3, 4, 5, 8, 7, 3]
+[0, 1, 2, 2, 3, 4, 5, 7, 8, 3]
+[0, 1, 2, 2, 3, 3, 4, 5, 7, 8]
+count of the basic operation is:19
+Enter number of elements : enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+Original array[6, 8, 4, 25, 65, 78, 11, 7, 6, 2]
+[6, 8, 4, 25, 65, 78, 11, 7, 6, 2]
+[4, 6, 8, 25, 65, 78, 11, 7, 6, 2]
+[4, 6, 8, 25, 65, 78, 11, 7, 6, 2]
+[4, 6, 8, 25, 65, 78, 11, 7, 6, 2]
+[4, 6, 8, 25, 65, 78, 11, 7, 6, 2]
+[4, 6, 8, 11, 25, 65, 78, 7, 6, 2]
+[4, 6, 7, 8, 11, 25, 65, 78, 6, 2]
+[4, 6, 6, 7, 8, 11, 25, 65, 78, 2]
+[2, 4, 6, 6, 7, 8, 11, 25, 65, 78]
+count of the basic operation is:25
+Enter number of elements : enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+Original array[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+count of the basic operation is:0
+Enter number of elements : enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+enter number: 
+Original array[11, 10, 9, 8, 7, 6, 5, 4, 3, 2]
+[10, 11, 9, 8, 7, 6, 5, 4, 3, 2]
+[9, 10, 11, 8, 7, 6, 5, 4, 3, 2]
+[8, 9, 10, 11, 7, 6, 5, 4, 3, 2]
+[7, 8, 9, 10, 11, 6, 5, 4, 3, 2]
+[6, 7, 8, 9, 10, 11, 5, 4, 3, 2]
+[5, 6, 7, 8, 9, 10, 11, 4, 3, 2]
+[4, 5, 6, 7, 8, 9, 10, 11, 3, 2]
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 2]
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+count of the basic operation is:45

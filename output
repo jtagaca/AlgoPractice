@@ -1,0 +1,20 @@
+this is the graph {1: [9], 2: [3], 3: [4], 4: [6], 5: [6], 6: [8], 7: [2, 8, 9], 8: [11], 9: [], 10: [], 11: [10]}
+what is the input number start number is 1
+The visitation order is: [1, 9, 2, 3, 4, 6, 8, 11, 10, 5, 7]
+======================================
+this is the graph {1: [9], 2: [3], 3: [4], 4: [6], 5: [6], 6: [8], 7: [2, 8, 9], 8: [11], 9: [], 10: [], 11: [10]}
+what is the input number start number is 3
+The visitation order is: [3, 4, 6, 8, 11, 10, 1, 9, 2, 5, 7]
+======================================
+this is the graph {1: [9], 2: [3], 3: [4], 4: [6], 5: [6], 6: [8], 7: [2, 8, 9], 8: [11], 9: [], 10: [], 11: [10]}
+what is the input number start number is 5
+The visitation order is: [5, 6, 8, 11, 10, 1, 9, 2, 3, 4, 7]
+======================================
+this is the graph {1: [9], 2: [3], 3: [4], 4: [6], 5: [6], 6: [8], 7: [2, 8, 9], 8: [11], 9: [], 10: [], 11: [10]}
+what is the input number start number is 7
+The visitation order is: [7, 2, 3, 4, 6, 8, 11, 10, 9, 1, 5]
+======================================
+this is the graph {1: [9], 2: [3], 3: [4], 4: [6], 5: [6], 6: [8], 7: [2, 8, 9], 8: [11], 9: [], 10: [], 11: [10]}
+what is the input number start number is 2
+The visitation order is: [2, 3, 4, 6, 8, 11, 10, 1, 9, 5, 7]
+======================================
